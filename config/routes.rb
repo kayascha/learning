@@ -1,6 +1,8 @@
 Learning::Application.routes.draw do
   
 
+  get "profiles/show"
+
   resources :statuses
   get 'feed', to: 'statuses#index', as: :feed
   root to: 'statuses#index'

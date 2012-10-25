@@ -3,3 +3,9 @@ jason:
   last_name: "Janson"
   email: "janson@redpeppix.de"
   profile_name: "SarahJanson"
+
+jim:
+  first_name: "Jim"
+  last_name: "Hoskins"
+  email: "janson@redrauscher.de"
+  profile_name: "jimhoskins"

@@ -1,11 +1,17 @@
 jason:
   first_name: "Sarah"
   last_name: "Janson"
-  email: "janson@redpeppix.de"
+  email: "jason@redpeppix.de"
   profile_name: "SarahJanson"
 
 jim:
   first_name: "Jim"
   last_name: "Hoskins"
-  email: "janson@redrauscher.de"
+  email: "jim@redrauscher.de"
   profile_name: "jimhoskins"
+
+mike:
+  first_name: "Mike"
+  last_name: "The Frog"
+  email: "mike@redrauscher.de"
+  profile_name: "mikethefrog"
